@@ -3,6 +3,8 @@
 
 # Custom
 patrick_helloworld.egg-info
+.vscode
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
